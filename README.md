@@ -1,4 +1,4 @@
-# MF_Triangle
+# MF_Triad
 
 This git is for the development of a forest management planning optimization trade-off analysis. The purpose of this code will be to formulate an optimization problem that systematically explores the trade-off between forest management by assisgning management into thirds (extensive, intensive and protective management).
 
