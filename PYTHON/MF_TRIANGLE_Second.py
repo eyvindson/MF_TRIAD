@@ -150,7 +150,6 @@ if __name__ == "__main__":
     val = args.val
     
     import cloudpickle
-    #path = "/scratch/project_2000611/KYLE/REMI/"
     with open(path_output+"MODEL_1_MF.pkl",mode = "rb") as file:
         t2 = cloudpickle.load(file)
     
